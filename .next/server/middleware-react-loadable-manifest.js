@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/page.tsx -> @/components/learning-flow\":{\"id\":\"app/page.tsx -> @/components/learning-flow\",\"files\":[\"static/chunks/_app-pages-browser_components_learning-flow_tsx.js\"]}}"
